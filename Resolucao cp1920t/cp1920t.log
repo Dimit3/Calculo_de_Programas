@@ -1,0 +1,1548 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7400 64-bit) (preloaded format=pdflatex 2020.5.19)  17 JUN 2020 22:49
+entering extended mode
+**./cp1920t.tex
+(cp1920t.tex
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-04-06>
+("C:\Users\Daniel\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\article.cls"
+Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
+("C:\Users\Daniel\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\size10.clo"
+File: size10.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+)
+\c@part=\count167
+\c@section=\count168
+\c@subsection=\count169
+\c@subsubsection=\count170
+\c@paragraph=\count171
+\c@subparagraph=\count172
+\c@figure=\count173
+\c@table=\count174
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen134
+)
+("C:\Users\Daniel\AppData\Local\Programs\MiKTeX 2.9\tex/latex/geometry\geometry
+.sty"
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+("C:\Users\Daniel\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\keyval.s
+ty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+("C:\Users\Daniel\AppData\Local\Programs\MiKTeX 2.9\tex/generic/iftex\ifvtex.st
+y"
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+("C:\Users\Daniel\AppData\Local\Programs\MiKTeX 2.9\tex/generic/iftex\iftex.sty
+"
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+))
+\Gm@cnth=\count175
+\Gm@cntv=\count176
+\c@Gm@tempcnt=\count177
+\Gm@bindingoffset=\dimen135
+\Gm@wd@mp=\dimen136
+\Gm@odd@mp=\dimen137
+\Gm@even@mp=\dimen138
+\Gm@layoutwidth=\dimen139
+\Gm@layoutheight=\dimen140
+\Gm@layouthoffset=\dimen141
+\Gm@layoutvoffset=\dimen142
+\Gm@dimlist=\toks16
+
+("C:\Users\Daniel\AppData\Local\Programs\MiKTeX 2.9\tex/latex/geometry\geometry
+.cfg"))
+("C:\Users\Daniel\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\palatino.s
+ty"
+Package: palatino 2020/03/25 PSNFSS-v9.3 (SPQR) 
+)
+("C:\Users\Daniel\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\hyperref
+.sty"
+Package: hyperref 2020/01/14 v7.00d Hypertext links for LaTeX
+
+("C:\Users\Daniel\AppData\Local\Programs\MiKTeX 2.9\tex/generic/ltxcmds\ltxcmds
+.sty"
+Package: ltxcmds 2019/12/15 v1.24 LaTeX kernel commands for general use (HO)
+)
+("C:\Users\Daniel\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pdftexcmds\pdftex
+cmds.sty"
+Package: pdftexcmds 2019/11/24 v0.31 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+("C:\Users\Daniel\AppData\Local\Programs\MiKTeX 2.9\tex/generic/infwarerr\infwa
+rerr.sty"
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+("C:\Users\Daniel\AppData\Local\Programs\MiKTeX 2.9\tex/generic/kvsetkeys\kvset
+keys.sty"
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+)
+("C:\Users\Daniel\AppData\Local\Programs\MiKTeX 2.9\tex/generic/kvdefinekeys\kv
+definekeys.sty"
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+("C:\Users\Daniel\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pdfescape\pdfes
+cape.sty"
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+)
+("C:\Users\Daniel\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hycolor\hycolor.s
+ty"
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+("C:\Users\Daniel\AppData\Local\Programs\MiKTeX 2.9\tex/latex/letltxmacro\letlt
+xmacro.sty"
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+("C:\Users\Daniel\AppData\Local\Programs\MiKTeX 2.9\tex/latex/auxhook\auxhook.s
+ty"
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+("C:\Users\Daniel\AppData\Local\Programs\MiKTeX 2.9\tex/latex/kvoptions\kvoptio
+ns.sty"
+Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
+)
+\@linkdim=\dimen143
+\Hy@linkcounter=\count178
+\Hy@pagecounter=\count179
+
+("C:\Users\Daniel\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\pd1enc.d
+ef"
+File: pd1enc.def 2020/01/14 v7.00d Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+("C:\Users\Daniel\AppData\Local\Programs\MiKTeX 2.9\tex/generic/intcalc\intcalc
+.sty"
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+("C:\Users\Daniel\AppData\Local\Programs\MiKTeX 2.9\tex/generic/etexcmds\etexcm
+ds.sty"
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count180
+Package hyperref Info: Option `colorlinks' set `true' on input line 4421.
+Package hyperref Info: Hyper figures OFF on input line 4547.
+Package hyperref Info: Link nesting OFF on input line 4552.
+Package hyperref Info: Hyper index ON on input line 4555.
+Package hyperref Info: Plain pages OFF on input line 4562.
+Package hyperref Info: Backreferencing OFF on input line 4567.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4800.
+\c@Hy@tempcnt=\count181
+
+("C:\Users\Daniel\AppData\Local\Programs\MiKTeX 2.9\tex/latex/url\url.sty"
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5159.
+\XeTeXLinkMargin=\dimen144
+
+("C:\Users\Daniel\AppData\Local\Programs\MiKTeX 2.9\tex/generic/bitset\bitset.s
+ty"
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+("C:\Users\Daniel\AppData\Local\Programs\MiKTeX 2.9\tex/generic/bigintcalc\bigi
+ntcalc.sty"
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count182
+\Field@Width=\dimen145
+\Fld@charsize=\dimen146
+Package hyperref Info: Hyper figures OFF on input line 6430.
+Package hyperref Info: Link nesting OFF on input line 6435.
+Package hyperref Info: Hyper index ON on input line 6438.
+Package hyperref Info: backreferencing OFF on input line 6445.
+Package hyperref Info: Link coloring ON on input line 6448.
+Package hyperref Info: Link coloring with OCG OFF on input line 6455.
+Package hyperref Info: PDF/A mode OFF on input line 6460.
+LaTeX Info: Redefining \ref on input line 6500.
+LaTeX Info: Redefining \pageref on input line 6504.
+
+("C:\Users\Daniel\AppData\Local\Programs\MiKTeX 2.9\tex/generic/atbegshi\atbegs
+hi.sty"
+Package: atbegshi 2019/12/05 v1.19 At begin shipout hook (HO)
+)
+\Hy@abspage=\count183
+\c@Item=\count184
+\c@Hfootnote=\count185
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+("C:\Users\Daniel\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\hpdftex.
+def"
+File: hpdftex.def 2020/01/14 v7.00d Hyperref driver for pdfTeX
+
+("C:\Users\Daniel\AppData\Local\Programs\MiKTeX 2.9\tex/latex/atveryend\atverye
+nd.sty"
+Package: atveryend 2019-12-11 v1.11 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+)
+\Fld@listcount=\count186
+\c@bookmark@seq@number=\count187
+
+("C:\Users\Daniel\AppData\Local\Programs\MiKTeX 2.9\tex/latex/rerunfilecheck\re
+runfilecheck.sty"
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+
+("C:\Users\Daniel\AppData\Local\Programs\MiKTeX 2.9\tex/generic/uniquecounter\u
+niquecounter.sty"
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+86.
+)
+\Hy@SectionHShift=\skip49
+)
+("C:\Users\Daniel\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphicx
+.sty"
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\Daniel\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphics
+.sty"
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\Daniel\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\trig.sty
+"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Users\Daniel\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\grap
+hics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+("C:\Users\Daniel\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-def\pdft
+ex.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen147
+\Gin@req@width=\dimen148
+) (cp1920t.sty
+("C:\Users\Daniel\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\fleqn.sty"
+
+LaTeX Warning: inputting `fleqn.clo' instead of obsolete `fleqn.sty'.
+
+("C:\Users\Daniel\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\fleqn.clo"
+File: fleqn.clo 2016/12/29 v1.2b Standard LaTeX option (flush left equations)
+\mathindent=\dimen149
+Applying: [2015/01/01] Make \[ robust on input line 50.
+LaTeX Info: Redefining \[ on input line 51.
+Already applied: [0000/00/00] Make \[ robust on input line 62.
+Applying: [2015/01/01] Make \] robust on input line 74.
+LaTeX Info: Redefining \] on input line 75.
+Already applied: [0000/00/00] Make \] robust on input line 83.
+)) ("C:\Users\Daniel\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\babel.
+sty"
+Package: babel 2020/03/22 3.42 The Babel package
+
+("C:\Users\Daniel\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\switch.de
+f"
+File: switch.def 2020/03/22 3.42 Babel switching mechanism
+)
+*************************************
+* Local config file bblopts.cfg used
+*
+("C:\Users\Daniel\AppData\Local\Programs\MiKTeX 2.9\tex/latex/arabi\bblopts.cfg
+"
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+("C:\Users\Daniel\AppData\Local\Programs\MiKTeX 2.9\tex/latex/babel-portuges\po
+rtuguese.ldf"
+Language: portuges 2020/05/04 v1.2r Portuguese support from the babel system
+
+("C:\Users\Daniel\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\babel.def
+"
+File: babel.def 2020/03/22 3.42 Babel common definitions
+\babel@savecnt=\count188
+\U@D=\dimen150
+
+("C:\Users\Daniel\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\txtbabel.
+def")
+\bbl@readstream=\read2
+\bbl@dirlevel=\count189
+)
+Package babel Info: Making " an active character on input line 143.
+))
+("C:\Users\Daniel\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\inputenc.sty
+"
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks17
+\inpenc@posthook=\toks18
+)
+\c@teste=\count190
+\c@propriedade=\count191
+
+("C:\Users\Daniel\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fancyvrb\fancyvrb
+.sty"
+Package: fancyvrb 2020/05/03 v3.6 verbatim text (tvz,hv)
+\FV@CodeLineNo=\count192
+\FV@InFile=\read3
+\FV@TabBox=\box45
+\c@FancyVerbLine=\count193
+\FV@StepNumber=\count194
+\FV@OutFile=\write3
+)
+("C:\Users\Daniel\AppData\Local\Programs\MiKTeX 2.9\tex/generic/xypic\xy.sty"
+("C:\Users\Daniel\AppData\Local\Programs\MiKTeX 2.9\tex/generic/xypic\xy.tex"
+Bootstrap'ing: catcodes, docmode,
+("C:\Users\Daniel\AppData\Local\Programs\MiKTeX 2.9\tex/generic/xypic\xyrecat.t
+ex")
+("C:\Users\Daniel\AppData\Local\Programs\MiKTeX 2.9\tex/generic/xypic\xyidioms.
+tex")
+
+ Xy-pic version 3.8.9 <2013/10/06>
+ Copyright (c) 1991-2013 by Kristoffer H. Rose <krisrose@tug.org> and others
+ Xy-pic is free software: see the User's Guide for details.
+
+Loading kernel: messages; fonts; allocations: state,
+\X@c=\dimen151
+\Y@c=\dimen152
+\U@c=\dimen153
+\D@c=\dimen154
+\L@c=\dimen155
+\R@c=\dimen156
+\Edge@c=\toks19
+\X@p=\dimen157
+\Y@p=\dimen158
+\U@p=\dimen159
+\D@p=\dimen160
+\L@p=\dimen161
+\R@p=\dimen162
+\Edge@p=\toks20
+\X@origin=\dimen163
+\Y@origin=\dimen164
+\X@xbase=\dimen165
+\Y@xbase=\dimen166
+\X@ybase=\dimen167
+\Y@ybase=\dimen168
+\X@min=\dimen169
+\Y@min=\dimen170
+\X@max=\dimen171
+\Y@max=\dimen172
+\lastobjectbox@=\box46
+\zerodotbox@=\box47
+\almostz@=\dimen173
+ direction,
+\d@X=\dimen174
+\d@Y=\dimen175
+\K@=\count195
+\KK@=\count196
+\Direction=\count197
+\K@dXdY=\dimen176
+\K@dYdX=\dimen177
+\xyread@=\read4
+\xywrite@=\write4
+\csp@=\count198
+\quotPTK@=\dimen178
+
+utility macros; pictures: \xy, positions,
+\swaptoks@@=\toks21
+\connectobjectbox@@=\box48
+ objects,
+\styletoks@=\toks22
+ decorations;
+kernel objects: directionals, circles, text; options; algorithms: directions,
+edges, connections;  Xy-pic loaded)
+("C:\Users\Daniel\AppData\Local\Programs\MiKTeX 2.9\tex/generic/iftex\ifpdf.sty
+"
+Package: ifpdf 2019/10/25 v3.4 ifpdf legacy package. Use iftex instead.
+)
+Package: xy 2013/10/06 Xy-pic version 3.8.9
+
+("C:\Users\Daniel\AppData\Local\Programs\MiKTeX 2.9\tex/generic/xypic\xyall.tex
+"  Xy-pic option: All features v.3.8
+("C:\Users\Daniel\AppData\Local\Programs\MiKTeX 2.9\tex/generic/xypic\xycurve.t
+ex"  Xy-pic option: Curve and Spline extension v.3.12 curve,
+\crv@cnt@=\count199
+\crvpts@=\toks23
+\splinebox@=\box49
+\splineval@=\dimen179
+\splinedepth@=\dimen180
+\splinetol@=\dimen181
+\splinelength@=\dimen182
+ circles,
+\L@=\dimen183
+ loaded)
+("C:\Users\Daniel\AppData\Local\Programs\MiKTeX 2.9\tex/generic/xypic\xyframe.t
+ex"  Xy-pic option: Frame and Bracket extension v.3.14 loaded)
+("C:\Users\Daniel\AppData\Local\Programs\MiKTeX 2.9\tex/generic/xypic\xycmtip.t
+ex"  Xy-pic option: Computer Modern tip extension v.3.7
+("C:\Users\Daniel\AppData\Local\Programs\MiKTeX 2.9\tex/generic/xypic\xytips.te
+x"  Xy-pic option: More Tips extension v.3.11 loaded) loaded)
+("C:\Users\Daniel\AppData\Local\Programs\MiKTeX 2.9\tex/generic/xypic\xyline.te
+x"  Xy-pic option: Line styles extension v.3.10
+\xylinethick@=\dimen184
+ loaded)
+("C:\Users\Daniel\AppData\Local\Programs\MiKTeX 2.9\tex/generic/xypic\xyrotate.
+tex"  Xy-pic option: Rotate and Scale extension v.3.8 loaded)
+("C:\Users\Daniel\AppData\Local\Programs\MiKTeX 2.9\tex/generic/xypic\xycolor.t
+ex"  Xy-pic option: Colour extension v.3.11 loaded)
+("C:\Users\Daniel\AppData\Local\Programs\MiKTeX 2.9\tex/generic/xypic\xymatrix.
+tex"  Xy-pic option: Matrix feature v.3.14
+\Row=\count266
+\Col=\count267
+\queue@=\toks24
+\queue@@=\toks25
+\qcount@=\count268
+\qcount@@=\count269
+\matrixsize@=\count270
+ loaded)
+("C:\Users\Daniel\AppData\Local\Programs\MiKTeX 2.9\tex/generic/xypic\xyarrow.t
+ex"  Xy-pic option: Arrow and Path feature v.3.9 path, \ar, loaded)
+("C:\Users\Daniel\AppData\Local\Programs\MiKTeX 2.9\tex/generic/xypic\xygraph.t
+ex"  Xy-pic option: Graph feature v.3.11 loaded) loaded)
+("C:\Users\Daniel\AppData\Local\Programs\MiKTeX 2.9\tex/generic/xypic\xypdf.tex
+"  Xy-pic option: PDF driver v.1.7
+Xy-pic pdf driver: `color' extension support
+("C:\Users\Daniel\AppData\Local\Programs\MiKTeX 2.9\tex/generic/xypic\xypdf-co.
+tex" loaded) Xy-pic pdf driver: `curve' extension support
+("C:\Users\Daniel\AppData\Local\Programs\MiKTeX 2.9\tex/generic/xypic\xypdf-cu.
+tex" loaded) Xy-pic pdf driver: `frame' extension support
+("C:\Users\Daniel\AppData\Local\Programs\MiKTeX 2.9\tex/generic/xypic\xypdf-fr.
+tex" loaded) Xy-pic pdf driver: `line' extension support
+("C:\Users\Daniel\AppData\Local\Programs\MiKTeX 2.9\tex/generic/xypic\xypdf-li.
+tex" loaded) Xy-pic pdf driver: `rotate' extension support
+("C:\Users\Daniel\AppData\Local\Programs\MiKTeX 2.9\tex/generic/xypic\xypdf-ro.
+tex" loaded) loaded))
+("C:\Users\Daniel\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\makeidx.sty"
+Package: makeidx 2014/09/29 v1.0m Standard LaTeX package
+)
+\pn=\count271
+)
+("C:\Users\Daniel\AppData\Local\Programs\MiKTeX 2.9\tex/latex/caption\subcaptio
+n.sty"
+Package: subcaption 2020/01/22 v1.3d Sub-captions (AR)
+
+("C:\Users\Daniel\AppData\Local\Programs\MiKTeX 2.9\tex/latex/caption\caption.s
+ty"
+Package: caption 2020/05/10 v3.4j Customizing captions (AR)
+
+("C:\Users\Daniel\AppData\Local\Programs\MiKTeX 2.9\tex/latex/caption\caption3.
+sty"
+Package: caption3 2020/05/10 v1.11 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 61.
+\captionmargin=\dimen185
+\captionmargin@=\dimen186
+\captionwidth=\dimen187
+\caption@tempdima=\dimen188
+\caption@indent=\dimen189
+\caption@parindent=\dimen190
+\caption@hangindent=\dimen191
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count272
+\c@continuedfloat=\count273
+Package caption Info: hyperref package is loaded.
+)
+\c@subfigure=\count274
+\c@subtable=\count275
+)
+("C:\Users\Daniel\AppData\Local\Programs\MiKTeX 2.9\tex/latex/adjustbox\adjustb
+ox.sty"
+Package: adjustbox 2019/01/04 v1.2 Adjusting TeX boxes (trim, clip, ...)
+
+("C:\Users\Daniel\AppData\Local\Programs\MiKTeX 2.9\tex/latex/xkeyval\xkeyval.s
+ty"
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+
+("C:\Users\Daniel\AppData\Local\Programs\MiKTeX 2.9\tex/generic/xkeyval\xkeyval
+.tex"
+("C:\Users\Daniel\AppData\Local\Programs\MiKTeX 2.9\tex/generic/xkeyval\xkvutil
+s.tex"
+\XKV@toks=\toks26
+\XKV@tempa@toks=\toks27
+)
+\XKV@depth=\count276
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+("C:\Users\Daniel\AppData\Local\Programs\MiKTeX 2.9\tex/latex/adjustbox\adjcalc
+.sty"
+Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back
+-ends (calc, etex, pgfmath)
+)
+("C:\Users\Daniel\AppData\Local\Programs\MiKTeX 2.9\tex/latex/adjustbox\trimcli
+p.sty"
+Package: trimclip 2018/04/08 v1.1 Trim and clip general TeX material
+
+("C:\Users\Daniel\AppData\Local\Programs\MiKTeX 2.9\tex/latex/collectbox\collec
+tbox.sty"
+Package: collectbox 2012/05/17 v0.4b Collect macro arguments as boxes
+\collectedbox=\box50
+)
+\tc@llx=\dimen192
+\tc@lly=\dimen193
+\tc@urx=\dimen194
+\tc@ury=\dimen195
+Package trimclip Info: Using driver 'tc-pdftex.def'.
+
+("C:\Users\Daniel\AppData\Local\Programs\MiKTeX 2.9\tex/latex/adjustbox\tc-pdft
+ex.def"
+File: tc-pdftex.def 2019/01/04 v2.2 Clipping driver for pdftex
+))
+\adjbox@Width=\dimen196
+\adjbox@Height=\dimen197
+\adjbox@Depth=\dimen198
+\adjbox@Totalheight=\dimen199
+\adjbox@pwidth=\dimen256
+\adjbox@pheight=\dimen257
+\adjbox@pdepth=\dimen258
+\adjbox@ptotalheight=\dimen259
+
+("C:\Users\Daniel\AppData\Local\Programs\MiKTeX 2.9\tex/latex/ifoddpage\ifoddpa
+ge.sty"
+Package: ifoddpage 2016/04/23 v1.1 Conditionals for odd/even page detection
+\c@checkoddpage=\count277
+)
+("C:\Users\Daniel\AppData\Local\Programs\MiKTeX 2.9\tex/latex/varwidth\varwidth
+.sty"
+Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
+\@vwid@box=\box51
+\sift@deathcycles=\count278
+\@vwid@loff=\dimen260
+\@vwid@roff=\dimen261
+))
+("C:\Users\Daniel\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\color.st
+y"
+Package: color 2019/11/23 v1.2a Standard LaTeX Color (DPC)
+
+("C:\Users\Daniel\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\colo
+r.cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 147.
+)
+("C:\Users\Daniel\AppData\Local\Programs\MiKTeX 2.9\tex/latex/float\float.sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count279
+\float@exts=\toks28
+\float@box=\box52
+\@float@everytoks=\toks29
+\@floatcapt=\box53
+)
+("C:\Users\Daniel\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amstext.s
+ty"
+Package: amstext 2000/06/29 v2.01 AMS text
+
+("C:\Users\Daniel\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsgen.st
+y"
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks30
+\ex@=\dimen262
+))
+("C:\Users\Daniel\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\amssymb.
+sty"
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+("C:\Users\Daniel\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\amsfonts
+.sty"
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+("C:\Users\Daniel\AppData\Local\Programs\MiKTeX 2.9\tex/latex/stmaryrd\stmaryrd
+.sty"
+Package: stmaryrd 1994/03/03 St Mary's Road symbol package
+\symstmry=\mathgroup6
+LaTeX Font Info:    Overwriting symbol font `stmry' in version `bold'
+(Font)                  U/stmry/m/n --> U/stmry/b/n on input line 89.
+)
+("C:\Users\Daniel\AppData\Local\Programs\MiKTeX 2.9\tex/latex/polytable\polytab
+le.sty"
+Package: polytable 2013/07/18 v0.8.5 `polytable' package (Andres Loeh)
+
+("C:\Users\Daniel\AppData\Local\Programs\MiKTeX 2.9\tex/latex/lazylist\lazylist
+.sty")
+("C:\Users\Daniel\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\array.sty"
+Package: array 2019/08/31 v2.4l Tabular extension package (FMi)
+\col@sep=\dimen263
+\ar@mcellbox=\box54
+\extrarowheight=\dimen264
+\NC@list=\toks31
+\extratabsurround=\skip50
+\backup@length=\skip51
+\ar@cellbox=\box55
+)
+\PT@colwidth=\dimen265
+\PT@cols=\count280
+\PT@table=\count281
+\PT@toks=\toks32
+\PT@in=\read5
+\PT@out=\write5
+)
+\blanklineskip=\skip52
+ ("C:\Users\Daniel\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\calc.sty"
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count282
+\calc@Bcount=\count283
+\calc@Adimen=\dimen266
+\calc@Bdimen=\dimen267
+\calc@Askip=\skip53
+\calc@Bskip=\skip54
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count284
+\calc@Cskip=\skip55
+)
+\@indexfile=\write6
+\openout6 = `cp1920t.idx'.
+
+
+Writing index file cp1920t.idx
+
+("C:\Users\Daniel\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3backend\l3backe
+nd-pdfmode.def"
+File: l3backend-pdfmode.def 2020-03-12 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count285
+\l__pdf_internal_box=\box56
+) (cp1920t.aux)
+\openout1 = `cp1920t.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 298.
+LaTeX Font Info:    ... okay on input line 298.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 298.
+LaTeX Font Info:    ... okay on input line 298.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 298.
+LaTeX Font Info:    ... okay on input line 298.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 298.
+LaTeX Font Info:    ... okay on input line 298.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 298.
+LaTeX Font Info:    ... okay on input line 298.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 298.
+LaTeX Font Info:    ... okay on input line 298.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 298.
+LaTeX Font Info:    ... okay on input line 298.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 298.
+LaTeX Font Info:    ... okay on input line 298.
+LaTeX Font Info:    Trying to load font information for OT1+ppl on input line 2
+98.
+
+("C:\Users\Daniel\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\ot1ppl.fd"
+File: ot1ppl.fd 2001/06/04 font definitions for OT1/ppl.
+)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(85.35826pt, 455.24411pt, 56.9055pt)
+* v-part:(T,H,B)=(71.13188pt, 702.78308pt, 71.13188pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=455.24411pt
+* \textheight=702.78308pt
+* \oddsidemargin=13.08827pt
+* \evensidemargin=13.08827pt
+* \topmargin=-38.1381pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=57.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+\AtBeginShipoutBox=\box57
+Package hyperref Info: Link coloring ON on input line 298.
+
+("C:\Users\Daniel\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\nameref.
+sty"
+Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
+
+("C:\Users\Daniel\AppData\Local\Programs\MiKTeX 2.9\tex/latex/refcount\refcount
+.sty"
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+("C:\Users\Daniel\AppData\Local\Programs\MiKTeX 2.9\tex/generic/gettitlestring\
+gettitlestring.sty"
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count286
+)
+LaTeX Info: Redefining \ref on input line 298.
+LaTeX Info: Redefining \pageref on input line 298.
+LaTeX Info: Redefining \nameref on input line 298.
+ (cp1920t.out) (cp1920t.out)
+\@outlinefile=\write7
+\openout7 = `cp1920t.out'.
+
+
+("C:\Users\Daniel\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mkii\supp-
+pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count287
+\scratchdimen=\dimen268
+\scratchbox=\box58
+\nofMPsegments=\count288
+\nofMParguments=\count289
+\everyMPshowfont=\toks33
+\MPscratchCnt=\count290
+\MPscratchDim=\dimen269
+\MPnumerator=\count291
+\makeMPintoPDFobject=\count292
+\everyMPtoPDFconversion=\toks34
+)
+("C:\Users\Daniel\AppData\Local\Programs\MiKTeX 2.9\tex/latex/epstopdf-pkg\epst
+opdf-base.sty"
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+)
+LaTeX Font Info:    Trying to load font information for U+msa on input line 298
+.
+
+("C:\Users\Daniel\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsa.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 298
+.
+ ("C:\Users\Daniel\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsb.fd
+"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Trying to load font information for U+stmry on input line 2
+98.
+
+("C:\Users\Daniel\AppData\Local\Programs\MiKTeX 2.9\tex/latex/stmaryrd\ustmry.f
+d")
+Package xypdf Info: Line width: 0.39998pt on input line 298.
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: float package is loaded.
+Package caption Info: End \AtBeginDocument code.
+
+
+LaTeX Warning: Citation `Kn92' on page 1 undefined on input line 333.
+
+LaTeX Font Info:    Trying to load font information for OT1+pcr on input line 3
+38.
+("C:\Users\Daniel\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\ot1pcr.fd"
+File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
+) [1
+
+{C:/Users/Daniel/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+
+LaTeX Warning: Reference `sec:resolucao' on page 2 undefined on input line 379.
+
+
+
+LaTeX Warning: Reference `sec:codigo' on page 2 undefined on input line 408.
+
+LaTeX Font Info:    Trying to load font information for TS1+ppl on input line 4
+21.
+("C:\Users\Daniel\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\ts1ppl.fd"
+File: ts1ppl.fd 2001/06/04 font definitions for TS1/ppl.
+)
+<images/dic.png, id=58, 2221.29875pt x 1465.475pt>
+File: images/dic.png Graphic file (type png)
+<use images/dic.png>
+Package pdftex.def Info: images/dic.png  used on input line 433.
+(pdftex.def)             Requested size: 333.18044pt x 219.81177pt.
+
+
+LaTeX Warning: Reference `sec:codigo' on page 2 undefined on input line 438.
+
+
+LaTeX Warning: Reference `fig:dic' on page 2 undefined on input line 438.
+
+
+LaTeX Warning: Reference `sec:codigo' on page 2 undefined on input line 441.
+
+\openout5 = `cp1920t.ptb'.
+
+[2]
+\openout5 = `cp1920t.ptb'.
+
+\openout5 = `cp1920t.ptb'.
+
+
+
+LaTeX Warning: Reference `fig:ex' on page 3 undefined on input line 492.
+
+<images/example1.png, id=73, 795.97375pt x 511.9125pt>
+File: images/example1.png Graphic file (type png)
+<use images/example1.png>
+Package pdftex.def Info: images/example1.png  used on input line 498.
+(pdftex.def)             Requested size: 206.94829pt x 133.0941pt.
+<images/example2.png, id=74, 980.66376pt x 532.99126pt>
+File: images/example2.png Graphic file (type png)
+<use images/example2.png>
+Package pdftex.def Info: images/example2.png  used on input line 499.
+(pdftex.def)             Requested size: 254.96655pt x 138.57445pt.
+
+Overfull \hbox (8.57076pt too wide) in paragraph at lines 498--501
+[][] [] 
+ []
+
+\openout5 = `cp1920t.ptb'.
+
+[3 <./images/dic.png>]
+
+LaTeX Warning: Reference `fig:ex' on page 4 undefined on input line 531.
+
+\openout5 = `cp1920t.ptb'.
+
+\openout5 = `cp1920t.ptb'.
+
+\openout5 = `cp1920t.ptb'.
+
+\openout5 = `cp1920t.ptb'.
+
+\openout5 = `cp1920t.ptb'.
+
+\openout5 = `cp1920t.ptb'.
+
+[4 <./images/example1.png> <./images/example2.png>]
+
+LaTeX Warning: Reference `exrot:fig' on page 5 undefined on input line 642.
+
+
+LaTeX Warning: Reference `exrot2:fig' on page 5 undefined on input line 642.
+
+File: images/example1.png Graphic file (type png)
+<use images/example1.png>
+Package pdftex.def Info: images/example1.png  used on input line 650.
+(pdftex.def)             Requested size: 214.91579pt x 138.21822pt.
+<images/example3.png, id=110, 903.375pt x 527.9725pt>
+File: images/example3.png Graphic file (type png)
+<use images/example3.png>
+Package pdftex.def Info: images/example3.png  used on input line 651.
+(pdftex.def)             Requested size: 243.9145pt x 142.55447pt.
+
+Overfull \hbox (5.4862pt too wide) in paragraph at lines 650--654
+[][] [] 
+ []
+
+File: images/example2.png Graphic file (type png)
+<use images/example2.png>
+Package pdftex.def Info: images/example2.png  used on input line 659.
+(pdftex.def)             Requested size: 245.16533pt x 133.24748pt.
+<images/example4.png, id=111, 899.36pt x 595.22375pt>
+File: images/example4.png Graphic file (type png)
+<use images/example4.png>
+Package pdftex.def Info: images/example4.png  used on input line 660.
+(pdftex.def)             Requested size: 224.83945pt x 148.80557pt.
+
+Overfull \hbox (16.66069pt too wide) in paragraph at lines 659--663
+[][] [] 
+ []
+
+\openout5 = `cp1920t.ptb'.
+
+[5 <./images/example3.png> <./images/example4.png>]
+\openout5 = `cp1920t.ptb'.
+
+\openout5 = `cp1920t.ptb'.
+
+\openout5 = `cp1920t.ptb'.
+
+ <xymatrix 4x3 214>
+\openout5 = `cp1920t.ptb'.
+
+ [6]
+\openout5 = `cp1920t.ptb'.
+
+\openout5 = `cp1920t.ptb'.
+
+\openout5 = `cp1920t.ptb'.
+
+
+[7]
+\openout5 = `cp1920t.ptb'.
+
+\openout5 = `cp1920t.ptb'.
+
+\openout5 = `cp1920t.ptb'.
+
+
+
+LaTeX Warning: Citation `EK06' on page 8 undefined on input line 909.
+
+\openout5 = `cp1920t.ptb'.
+
+<xymatrix 4x4 312> [8]
+\openout5 = `cp1920t.ptb'.
+
+\openout5 = `cp1920t.ptb'.
+
+
+
+LaTeX Warning: Reference `fig:tiles' on page 9 undefined on input line 997.
+
+
+LaTeX Warning: Reference `fig:truchet' on page 9 undefined on input line 998.
+
+
+LaTeX Warning: Reference `fig:tiles' on page 9 undefined on input line 1000.
+
+
+LaTeX Warning: Reference `sec:codigo' on page 9 undefined on input line 1011.
+
+<images/tiles.png, id=169, 982.67125pt x 569.12625pt>
+File: images/tiles.png Graphic file (type png)
+<use images/tiles.png>
+Package pdftex.def Info: images/tiles.png  used on input line 1014.
+(pdftex.def)             Requested size: 196.53076pt x 113.82323pt.
+<images/truchet.png, id=170, 1606.0pt x 1654.18pt>
+File: images/truchet.png Graphic file (type png)
+<use images/truchet.png>
+Package pdftex.def Info: images/truchet.png  used on input line 1020.
+(pdftex.def)             Requested size: 321.19432pt x 330.83014pt.
+[9] [10 <./images/tiles.png> <./images/truchet.png>]
+
+LaTeX Warning: Citation `Ol18' on page 11 undefined on input line 1034.
+
+<xymatrix 2x2 191>
+\openout5 = `cp1920t.ptb'.
+
+\openout5 = `cp1920t.ptb'.
+
+\openout5 = `cp1920t.ptb'.
+
+\openout5 = `cp1920t.ptb'.
+
+\openout5 = `cp1920t.ptb'.
+
+ [11]
+\openout5 = `cp1920t.ptb'.
+
+\openout5 = `cp1920t.ptb'.
+
+\openout5 = `cp1920t.ptb'.
+
+\openout5 = `cp1920t.ptb'.
+
+ [12]
+\openout5 = `cp1920t.ptb'.
+
+\openout5 = `cp1920t.ptb'.
+
+
+Overfull \hbox (18.06151pt too wide) in paragraph at lines 1367--1371
+\OT1/ppl/m/n/10 Os alu-nos de-vem co-lo-car neste anexo as suas solu[][]oes aos
+ exerc[]cios pro-pos-tos, de acordo com o "layout"que
+ []
+
+\openout5 = `cp1920t.ptb'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1397--1401
+
+ []
+
+[13]
+\openout5 = `cp1920t.ptb'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1427--1434
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1434--1438
+
+ []
+
+\openout5 = `cp1920t.ptb'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1456--1458
+
+ []
+
+\openout5 = `cp1920t.ptb'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1464--1466
+
+ []
+
+\openout5 = `cp1920t.ptb'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1481--1483
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1494--1526
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1494--1526
+
+ []
+
+[14]
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1528 \begin
+             {hscode}\SaveRestoreHook
+? r
+OK, entering \nonstopmode...
+\openout5 = `cp1920t.ptb'.
+
+
+Overfull \hbox (11.29114pt too wide) in paragraph at lines 1528--1621
+ [][] 
+ []
+
+
+Overfull \hbox (11.29114pt too wide) in paragraph at lines 1528--1621
+ [][][][] 
+ []
+
+
+Overfull \hbox (11.29114pt too wide) in paragraph at lines 1528--1621
+ [][][][] 
+ []
+
+
+Overfull \hbox (11.29114pt too wide) in paragraph at lines 1528--1621
+ [][][][] 
+ []
+
+
+Overfull \hbox (11.29114pt too wide) in paragraph at lines 1528--1621
+ [][] 
+ []
+
+
+Overfull \hbox (11.29114pt too wide) in paragraph at lines 1528--1621
+ [][][][][][] 
+ []
+
+
+Overfull \hbox (11.29114pt too wide) in paragraph at lines 1528--1621
+ [][][][] 
+ []
+
+
+Overfull \hbox (11.29114pt too wide) in paragraph at lines 1528--1621
+ [][][][] 
+ []
+
+
+Overfull \hbox (11.29114pt too wide) in paragraph at lines 1528--1621
+ [][] 
+ []
+
+
+Overfull \hbox (11.29114pt too wide) in paragraph at lines 1528--1621
+ [][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (11.29114pt too wide) in paragraph at lines 1528--1621
+ [][][][] 
+ []
+
+
+Overfull \hbox (11.29114pt too wide) in paragraph at lines 1528--1621
+ [][][][][][] 
+ []
+
+
+Overfull \hbox (11.29114pt too wide) in paragraph at lines 1528--1621
+ [][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (11.29114pt too wide) in paragraph at lines 1528--1621
+ [][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (11.29114pt too wide) in paragraph at lines 1528--1621
+ [][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (11.29114pt too wide) in paragraph at lines 1528--1621
+ [][][][] 
+ []
+
+
+Overfull \hbox (11.29114pt too wide) in paragraph at lines 1528--1621
+ [][][][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1621--1623
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1623--1625
+
+ []
+
+\openout5 = `cp1920t.ptb'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1634--1636
+
+ []
+
+\openout5 = `cp1920t.ptb'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1655--1657
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1660--1663
+
+ []
+
+[15]
+\openout5 = `cp1920t.ptb'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1678--1680
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1680--1682
+
+ []
+
+\openout5 = `cp1920t.ptb'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1698--1700
+
+ []
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1707 \begin
+             {hscode}\SaveRestoreHook
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+\openout5 = `cp1920t.ptb'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1735--1737
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1737--1744
+
+ []
+
+\openout5 = `cp1920t.ptb'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1782--1784
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1784--1792
+
+ []
+
+[16]
+\openout5 = `cp1920t.ptb'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1807--1809
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1809--1812
+
+ []
+
+\openout5 = `cp1920t.ptb'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1827--1829
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1829--1833
+
+ []
+
+\openout5 = `cp1920t.ptb'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1848--1851
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1848--1851
+
+ []
+
+\openout5 = `cp1920t.ptb'.
+
+<xymatrix 2x2 191> [17]
+\openout5 = `cp1920t.ptb'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1924--1932
+
+ []
+
+\openout5 = `cp1920t.ptb'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1956--1959
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1956--1959
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1962--1967
+
+ []
+
+\openout5 = `cp1920t.ptb'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1985--1987
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1987--1993
+
+ []
+
+\openout5 = `cp1920t.ptb'.
+
+[18]
+Underfull \hbox (badness 10000) in paragraph at lines 2038--2040
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2040--2046
+
+ []
+
+\openout5 = `cp1920t.ptb'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2077--2080
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2077--2080
+
+ []
+
+<images/truchet5.png, id=238, 599.99156pt x 526.96875pt>
+File: images/truchet5.png Graphic file (type png)
+<use images/truchet5.png>
+Package pdftex.def Info: images/truchet5.png  used on input line 2083.
+(pdftex.def)             Requested size: 299.99504pt x 263.48372pt.
+[19 <./images/truchet5.png>]
+\openout5 = `cp1920t.ptb'.
+
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2102 \par
+            A função drawTruchet x y é a principal, para a usar colocamos...
+
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2102--2106
+
+ []
+
+\openout5 = `cp1920t.ptb'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2120--2122
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2122--2125
+
+ []
+
+<images/pontos5.png, id=247, 492.84125pt x 442.65375pt>
+File: images/pontos5.png Graphic file (type png)
+<use images/pontos5.png>
+Package pdftex.def Info: images/pontos5.png  used on input line 2130.
+(pdftex.def)             Requested size: 295.70702pt x 265.59428pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 2125--2132
+
+ []
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2134 E
+        ssa lista é criada toda no primeiro quadrante de um referencial x y...
+
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+<images/translacaoy5.png, id=248, 256.96pt x 347.2975pt>
+File: images/translacaoy5.png Graphic file (type png)
+<use images/translacaoy5.png>
+Package pdftex.def Info: images/translacaoy5.png  used on input line 2139.
+(pdftex.def)             Requested size: 102.78217pt x 138.91653pt.
+<images/translacaox5.png, id=249, 337.26pt x 259.97125pt>
+File: images/translacaox5.png Graphic file (type png)
+<use images/translacaox5.png>
+Package pdftex.def Info: images/translacaox5.png  used on input line 2140.
+(pdftex.def)             Requested size: 134.9016pt x 103.98665pt.
+<images/coordenadasfinal5.png, id=250, 417.56pt x 407.5225pt>
+File: images/coordenadasfinal5.png Graphic file (type png)
+<use images/coordenadasfinal5.png>
+Package pdftex.def Info: images/coordenadasfinal5.png  used on input line 2141.
+
+(pdftex.def)             Requested size: 125.26895pt x 122.25769pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 2134--2143
+
+ []
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2145 
+       
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[20 <./images/pontos5.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 2146--2153
+
+ []
+
+\openout5 = `cp1920t.ptb'.
+
+
+Overfull \hbox (30.52853pt too wide) in paragraph at lines 2153--2202
+ [][] 
+ []
+
+
+Overfull \hbox (30.52853pt too wide) in paragraph at lines 2153--2202
+ [][][][][][][][] 
+ []
+
+
+Overfull \hbox (30.52853pt too wide) in paragraph at lines 2153--2202
+ [][][][] 
+ []
+
+
+Overfull \hbox (30.52853pt too wide) in paragraph at lines 2153--2202
+ [][][][] 
+ []
+
+
+Overfull \hbox (30.52853pt too wide) in paragraph at lines 2153--2202
+ [][][][] 
+ []
+
+
+Overfull \hbox (30.52853pt too wide) in paragraph at lines 2153--2202
+ [][][][] 
+ []
+
+
+Overfull \hbox (30.52853pt too wide) in paragraph at lines 2153--2202
+ [][][][] 
+ []
+
+
+Overfull \hbox (30.52853pt too wide) in paragraph at lines 2153--2202
+ [][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (30.52853pt too wide) in paragraph at lines 2153--2202
+ [][][][] 
+ []
+
+
+Overfull \hbox (30.52853pt too wide) in paragraph at lines 2153--2202
+ [][][][][][] 
+ []
+
+
+Overfull \hbox (30.52853pt too wide) in paragraph at lines 2153--2202
+ [][][][][][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2204--2208
+
+ []
+
+\openout5 = `cp1920t.ptb'.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2242 \\
+         
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2243 \\
+         
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2244 
+       
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+No file cp1920t.ind.
+No file cp1920t.bbl.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 2258.
+[21 <./images/translacaoy5.png> <./images/translacaox5.png> <./images/coordenad
+asfinal5.png>]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 2258.
+ (cp1920t.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 2258.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 2258.
+
+Package rerunfilecheck Info: File `cp1920t.out' has not changed.
+(rerunfilecheck)             Checksum: 628570B73880F7F6B343CF9F839CDB98;365.
+
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 2258.
+ ) 
+Here is how much of TeX's memory you used:
+ 13667 strings out of 480930
+ 205429 string characters out of 2899292
+ 536117 words of memory out of 3000000
+ 29111 multiletter control sequences out of 15000+200000
+ 566219 words of font info for 123 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 45i,19n,111p,3296b,475s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Users/Daniel/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/base/8r.en
+c}<C:/Users/Daniel/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfont
+s/cm/cmbx10.pfb><C:/Users/Daniel/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/
+public/amsfonts/cm/cmex10.pfb><C:/Users/Daniel/AppData/Local/Programs/MiKTeX 2.
+9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Daniel/AppData/Local/Prog
+rams/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Daniel/AppDa
+ta/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/
+Daniel/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmss10.
+pfb><C:/Users/Daniel/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfo
+nts/cm/cmss8.pfb><C:/Users/Daniel/AppData/Local/Programs/MiKTeX 2.9/fonts/type1
+/public/amsfonts/cm/cmsy10.pfb><C:/Users/Daniel/AppData/Local/Programs/MiKTeX 2
+.9/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/Daniel/AppData/Local/Prog
+rams/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/Daniel/AppD
+ata/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti7.pfb><C:/User
+s/Daniel/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti8
+.pfb><C:/Users/Daniel/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsf
+onts/symbols/msam10.pfb><C:/Users/Daniel/AppData/Local/Programs/MiKTeX 2.9/font
+s/type1/public/amsfonts/symbols/msbm10.pfb><C:/Users/Daniel/AppData/Local/Progr
+ams/MiKTeX 2.9/fonts/type1/urw/courier/ucrr8a.pfb><C:/Users/Daniel/AppData/Loca
+l/Programs/MiKTeX 2.9/fonts/type1/urw/palatino/uplb8a.pfb><C:/Users/Daniel/AppD
+ata/Local/Programs/MiKTeX 2.9/fonts/type1/urw/palatino/uplr8a.pfb><C:/Users/Dan
+iel/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/palatino/uplr8a.pfb><C:/U
+sers/Daniel/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/palatino/uplri8a.
+pfb><C:/Users/Daniel/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/xypic
+/xyatip10.pfb><C:/Users/Daniel/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pu
+blic/xypic/xybtip10.pfb>
+Output written on cp1920t.pdf (21 pages, 681466 bytes).
+PDF statistics:
+ 350 PDF objects out of 1000 (max. 8388607)
+ 77 named destinations out of 1000 (max. 500000)
+ 109 words of extra memory for PDF output out of 10000 (max. 10000000)
+
